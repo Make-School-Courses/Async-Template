@@ -4,7 +4,9 @@
   </a>
 </p>
 
-# Partially Async Template
+# Async Template
+
+Template for abuilding async learning modules for courses at Make School
 
 ## IMPORTANT NOTE
 
