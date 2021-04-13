@@ -8,11 +8,18 @@
 
 Template for abuilding async learning modules for courses at Make School
 
-## IMPORTANT NOTE
+## IMPORTANT NOTES
+
+
+### (1) Still Use The Syllabus Template
 
 You will still need to have all the necessary components from the Syllabus Template for your repo. The purpose of this template is to just show you how to build async modules within your courses.
 
 **Make sure you are still utilizing the [Syllabus Template](make.sc/syllabus-template) for your courses!**
+
+### (2) Use Docsify
+
+Many of the content items used in the lessons rely on being hosted on Docsify (i.e. embedded Replit, google forms, etc.) and won't be visible if you just open it up on GitHub. If you need a refresher on how to set up your course site with Docsify, check out [make.sc/course-repo-setup](make.sc/course-repo-setup)
 
 ## Instructor Note - Getting Started
 
