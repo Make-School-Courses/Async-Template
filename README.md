@@ -40,12 +40,33 @@ You'll want to organize your async content into **modules**, each of which have 
 1. Loops in Templates
 1. Creating Reusable Components via Template Inheritance
 
-# Instructor Note - Contact + Non-contact Hours
+## Activities
+
+Below is a list of example async activities you could utilize for your lessons. Don't feel limited to this list, this is just a jumping off point, or a source of inspiration! If you come up with more that work, share with the team or with the curriculum developer directly and we can add it to the list!
+
+Note that most options below can be submitted via Gradescope or Google Forms (file upload option)
+
+- [Replit Challenges](https://replit.com/team/makeschool1/Python-Interview-Prep-Activities1test1)
+    - Create your own Replit Team for your course. Make sure you are added to this [starter team](https://replit.com/team/makeschool1), and then the curriculum developer can make you an admin so you can make your own team for your course
+- Small Coding Projects
+- [Google Form Quizzes](https://docs.google.com/forms/d/1RuI15sOf1GIVQ_0vfldit69Stl2NOmHCGZ18jn9lT5U/edit?usp=sharing)
+    - Be sure you place your quiz in your course folder on Drive, and that students can access it
+- [Jamboard group discussions](http://jamboard.google.com/)
+    - Be sure you place your JamBoard in your course folder on Drive, and that students can access it 
+- Worksheets
+- Audio/Video recordings explaining a concept
+- Drawings
+- Written Responses
+- [Mentimeter polls/word clouds](https://www.mentimeter.com/)
+
+## Instructor Note - Contact + Non-contact Hours
 
 For any given course, there needs to be 16.5 hours dedicated to it each week split between contact and non-contact hours.
 
 - **Contact hours:** synchronous class time, office hours
 - **Non-Contact hours** asynchronous learning modules, homework, tutorials, projects, etc. Anything that does not involve live instruction/office hours.
+
+For a synchronous course, there are 5.5 contact hours (class sessions) and 10.7 hours (tutorials, homework, projects, blog posts, etc.) of non-contact hours. **For the (Partially) Async courses, those 5.5 contact hours now need to also be non-contact**
 
 ### When building asynchronous learning modules, be sure to keep these hours in mind to make sure you're meeting your credit hours.
 
