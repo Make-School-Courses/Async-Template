@@ -66,7 +66,7 @@ For any given course, there needs to be 16.5 hours dedicated to it each week spl
 - **Contact hours:** synchronous class time, office hours
 - **Non-Contact hours** asynchronous learning modules, homework, tutorials, projects, etc. Anything that does not involve live instruction/office hours.
 
-For a synchronous course, there are 5.5 contact hours (class sessions) and 10.7 hours (tutorials, homework, projects, blog posts, etc.) of non-contact hours. **For the (Partially) Async courses, those 5.5 contact hours now need to also be non-contact**
+For a synchronous course, there are 5.5 contact hours (class sessions) and 10.7 hours (tutorials, homework, projects, blog posts, etc.) of non-contact hours. **For the Async courses, those 5.5 contact hours now need to also be non-contact. For Partially  Async, 2 hours will be contact.**
 
 ### When building asynchronous learning modules, be sure to keep these hours in mind to make sure you're meeting your credit hours.
 
