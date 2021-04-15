@@ -37,8 +37,8 @@ Have students submit a small sample project that goes over the outcomes of this 
 
 ### 👈 Previous Lesson
 
-[Lesson 1: LESSON TITLE](Lesson-01.md)
+[Lesson 1: LESSON TITLE](/Module-01/Lesson-01.md)
 
 ### Next Lesson 👉
 
-[Lesson 3: LESSON TITLE](Lesson-03.md)
+[Lesson 3: LESSON TITLE](/Module-01/Lesson-03.md)

@@ -29,4 +29,4 @@ Add in a check for understanding at the end. You can use google forms, and copy 
 
 ### Next Lesson 👉
 
-[Lesson 2: LESSON TITLE](Lesson-02.md)
+[Lesson 2: LESSON TITLE](/Module-02/Lesson-02.md)

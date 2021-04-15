@@ -23,6 +23,6 @@ By the end of this module, you should be able to...
 
 ## Lessons
 
-1. [Lesson 1 Title](../Module-02/Lesson-01.md)
-1. [Lesson 2 Title](../Module-02/Lesson-02.md)
-1. [Lesson 3 Title](../Module-02/Lesson-03.md)
+1. [Lesson 1 Title](/Module-02/Lesson-01.md)
+1. [Lesson 2 Title](/Module-02/Lesson-02.md)
+1. [Lesson 3 Title](/Module-02/Lesson-03.md)

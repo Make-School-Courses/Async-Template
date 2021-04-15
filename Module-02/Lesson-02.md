@@ -43,8 +43,8 @@ Provide instructions on how they can submit their work, and as part of their sub
 
 ### 👈 Previous Lesson
 
-[Lesson 1: LESSON TITLE](Lesson-01.md)
+[Lesson 1: LESSON TITLE](/Module-02/Lesson-01.md)
 
 ### Next Lesson 👉
 
-[Lesson 3: LESSON TITLE](Lesson-03.md)
+[Lesson 3: LESSON TITLE](/Module-02/Lesson-03.md)

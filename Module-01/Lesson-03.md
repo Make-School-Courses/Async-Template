@@ -41,8 +41,8 @@ Add a Replit for students to check their understanding! You can do so by creatin
 
 ### 👈 Previous Lesson
 
-[Lesson 2: LESSON TITLE](Lesson-02.md)
+[Lesson 2: LESSON TITLE](/Module-01/Lesson-02.md)
 
 ### Next Lesson 👉
 
-[Lesson 4: LESSON TITLE](Lesson-04.md)
+[Lesson 4: LESSON TITLE](/Module-01/Lesson-04.md)

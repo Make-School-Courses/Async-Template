@@ -37,7 +37,7 @@ End of a module signals a quiz! This should be done via Gradescope, and should e
 
 ### 👈 Previous Lesson
 
-[Lesson 2: LESSON TITLE](Lesson-02.md)
+[Lesson 2: LESSON TITLE](/Module-02/Lesson-02.md)
 
 ### Next Lesson 👉
 

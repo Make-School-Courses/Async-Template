@@ -36,8 +36,8 @@ End of a module signals a quiz! This should be done via Gradescope, and should e
 
 ### 👈 Previous Lesson
 
-[Lesson 4: LESSON TITLE](Lesson-04.md)
+[Lesson 4: LESSON TITLE](/Module-01/Lesson-04.md)
 
 ### Next Lesson 👉
 
-[Module 2: MODULE TITLE](../Module-02/README.md)
+[Module 2: MODULE TITLE](/Module-02/README.md)
