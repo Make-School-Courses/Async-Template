@@ -44,14 +44,14 @@ You'll want to organize your async content into **modules**, each of which have 
 
 Below is a list of example async activities you could utilize for your lessons. Don't feel limited to this list, this is just a jumping off point, or a source of inspiration! If you come up with more that work, share with the team or with the curriculum developer directly and we can add it to the list!
 
-Note that most options below can be submitted via Gradescope or Google Forms (file upload option)
+Note that most options below can be submitted via Gradescope or Google Forms (file upload option). Click on the links to see How-To videos
 
-- [Replit Challenges](https://replit.com/team/makeschool1/Python-Interview-Prep-Activities1test1)
+- [Replit Challenges](https://youtu.be/iovYihXWbhI)
     - Create your own Replit Team for your course. Make sure you are added to this [starter team](https://replit.com/team/makeschool1), and then the curriculum developer can make you an admin so you can make your own team for your course
 - Small Coding Projects
-- [Google Form Quizzes](https://docs.google.com/forms/d/1RuI15sOf1GIVQ_0vfldit69Stl2NOmHCGZ18jn9lT5U/edit?usp=sharing)
+- [Google Form Quizzes](https://youtu.be/qJitdOX-0Rs)
     - Be sure you place your quiz in your course folder on Drive, and that students can access it
-- [Jamboard group discussions](http://jamboard.google.com/)
+- [Jamboard group discussions](https://youtu.be/EJSNEr11T1Q)
     - Be sure you place your JamBoard in your course folder on Drive, and that students can access it 
 - Worksheets
 - Audio/Video recordings explaining a concept
