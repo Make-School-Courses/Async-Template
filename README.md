@@ -57,7 +57,6 @@ Note that most options below can be submitted via Gradescope or Google Forms (fi
 - Audio/Video recordings explaining a concept
 - Drawings
 - Written Responses
-- [Mentimeter polls/word clouds](https://www.mentimeter.com/)
 
 ## Instructor Note - Contact + Non-contact Hours
 
