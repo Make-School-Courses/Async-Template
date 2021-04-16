@@ -24,7 +24,7 @@ Use this to supplement your videos/readings/exercises by giving written examples
 
 ## Mentimeter Poll 📈
 
-Add a poll from Mentimeter! Note that the free accounts only let you have a live poll for 2 weeks, so choose when to release it wisely. From mentimeter, once you create your poll, click on Share --> Presentation Sharing --> Embed Presentation to get something similar to this:
+Add a poll from Mentimeter! **Note that the free accounts only let you have a live poll for 1 week, so choose when to release it wisely.** From mentimeter, once you create your poll, click on Share --> Presentation Sharing --> Embed Presentation to get something similar to this:
 
 ```
 <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/embed/cdc8b3f7310b446e6bc00bbb4345f20f/7168e911b30b' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
