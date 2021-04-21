@@ -4,8 +4,6 @@
   </a>
 </p>
 
-# Async Template
-
 Template for abuilding async learning modules for courses at Make School
 
 ## IMPORTANT NOTES
