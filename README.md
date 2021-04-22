@@ -28,7 +28,7 @@ You'll want to organize your async content into **modules**, each of which have 
 
 ### Example
 
-**Lifted from [WEB 1.1](make.sc/web1.1)**
+**Lifted from [WEB 1.1](http://make.sc/web1.1)**
 
 **Module:** Creating scalable web applications and templating
 
