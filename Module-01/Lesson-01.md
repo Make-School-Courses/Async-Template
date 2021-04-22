@@ -27,10 +27,10 @@ Insert videos to take the place of Teacher Talk. Give a brief description of the
 Add a Replit for students to practice what they learned! You can do so by creating a Replit project, clicking the 3 dots, and then the `Copy Student Embed Code` button. You can than paste the embed code here, it should look like the following:
 
 ```
-<iframe width="100%" height="600px" src="https://replit.com/team/makeschool1/Javascript-Interview-Prep-Activities1test1"></iframe>
+<iframe width="100%" height="600px" src="https://replit.com/team/makeschool1/Async-Template-Test"></iframe>
 ```
 
-<iframe width="100%" height="600px" src="https://replit.com/team/makeschool1/Javascript-Interview-Prep-Activities1test1"></iframe>
+<iframe width="100%" height="600px" src="https://replit.com/team/makeschool1/Async-Template-Test"></iframe>
 
 ## Check For Understanding 🎓
 
