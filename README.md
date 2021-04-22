@@ -26,9 +26,7 @@ You'll want to organize your async content into **modules**, each of which have 
 - **Modules** are groups of lessons focused around a topic. Each Module has a README that gives the learning outcomes for the module and links to its lessons. Aim for 3-7 lessons per module. Each module gets its own folder.
 - **Lessons** are collections of content such as videos, readings, activities, checks for understanding, and quizzes that help the students achieve the learning objectives of the module. Each lesson should have its own set of learning outcomes as well.
 
-### Example
-
-**Lifted from [WEB 1.1](http://make.sc/web1.1)**
+### Example - From [WEB 1.1](http://make.sc/web1.1)
 
 **Module:** Creating scalable web applications and templating
 
