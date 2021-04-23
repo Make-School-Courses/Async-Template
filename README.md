@@ -4,7 +4,9 @@
   </a>
 </p>
 
-Template for abuilding async learning modules for courses at Make School
+**Template for abuilding async learning modules for courses at Make School**
+
+![async-pic](async-pic.jpg)
 
 ## IMPORTANT NOTES
 
